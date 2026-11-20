@@ -36,7 +36,7 @@ for one another and building useful things together.
 <table>
   <tr>
     <td align="center"><strong>6,000+</strong><br>community members</td>
-    <td align="center"><strong>10+ years</strong><br>building community</td>
+    <td align="center"><strong>13 years</strong><br>building community</td>
     <td align="center"><strong>500+</strong><br>builders supported</td>
     <td align="center"><strong>10+</strong><br>community-led tools</td>
   </tr>
